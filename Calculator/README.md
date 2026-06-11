@@ -1,12 +1,15 @@
-Calculator Project
+# Calculator Project
 
-Features:
+A simple calculator developed using HTML, CSS, and JavaScript.
+
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
+- Clear and Delete functions
 
-Technologies Used:
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
